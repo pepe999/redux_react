@@ -1,0 +1,16 @@
+{
+  "name": "zdrojak",
+  "version": "1.0.0",
+  "description": "react a redux",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "webpack": "webpack",
+    "devserver": "webpack-dev-server --inline"
+  },
+  "author": "JB",
+  "license": "ISC",
+  "dependencies": {
+    "webpack": "^3.0.0"
+  }
+}
